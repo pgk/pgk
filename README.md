@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hiya 👋
+
+Head over to my [site](https://kountanis.com) for more
 
 <!--
 **pgk/pgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
